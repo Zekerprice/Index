@@ -1,0 +1,55 @@
+/*
+
+accent 1, blue= #1D838A
+accent 2, red= #8A241D
+
+*/
+
+h1, h2, h3 {
+    color: #1D838A;
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    border: #8A241D solid 3px;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    color: #1D838A;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8A241D;
+}
+
+p.intro {
+    background-color: #1D838A;
+    color: #ffffff;
+    width: 710px;
+    padding: 10px;
+    border: #8A241D dashed 5px;
+    margin: auto;
+}
+
+div {
+    background-color: #1D838A;
+    width: 646px;
+    padding: 6px;
+    border: #8A241D 4px groove;
+    margin: auto;
+}
+
+body {
+    padding: 10px;
+}
+

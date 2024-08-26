@@ -1,0 +1,41 @@
+/*
+background= #9b91d1
+accent 1 = #6A040E
+accent 2 = #0C3837
+*/
+
+body {
+    background-color: #9b91d1;
+}
+
+h1 {
+    color: #6A040E;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #6A040E;
+    font-weight: bold;
+}
+
+p {
+    color: #6A040E;
+    font-size: large;
+    text-align: center;
+}
+
+p.picture {
+    text-align: center;
+}
+
+th, td {
+    border: #0C3837 groove 4px;
+    color: #6A040E;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
